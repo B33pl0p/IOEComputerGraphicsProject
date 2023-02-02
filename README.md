@@ -15,4 +15,5 @@ How to run :
 
 The output looks like this:
 Takes the current time from your system and displays as analog clock with real-time clock hands.
+And the pendulum oscillates back and forth too.
 ![image](https://user-images.githubusercontent.com/85874935/216230994-7ac34f50-c2cf-4038-989b-e019ba468164.png)
