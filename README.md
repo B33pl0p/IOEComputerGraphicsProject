@@ -6,3 +6,9 @@ Prerequisites
 Turbo C++
 
 Note : BGI and graphics.h were deprecated a long time ago but IOE says use it or you don't get marks.xD
+
+How to run :
+1. Download the source file or copy the code
+2. Move the file inside the installation diretory of turboC (eg :- "c:\turboc3\bin\") using a file manager
+3. Rename to all caps (CLOCK.C or WHATEVER.C)
+4. Open the file in turbo C and run.
